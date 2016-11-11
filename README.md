@@ -1,5 +1,5 @@
 # epoch
-Javascript date formatter with add and subtract options
+Javascript date formatter with add and subtract date and time options
 
 epoch adds the following functions to the JavaScript Date object:
 

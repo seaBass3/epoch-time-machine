@@ -31,7 +31,7 @@ Example
 
 ```
 var a = new Date();
-a.customFormat("D., M. j, Y, \\a\\t g:ia");  //"Mon., Sep. 26, 2016, at 4:13pm"
+a.toCustomFormat("D., M. j, Y, \\a\\t g:ia");  //"Mon., Sep. 26, 2016, at 4:13pm"
 ```
 
 ##*Format Flags*

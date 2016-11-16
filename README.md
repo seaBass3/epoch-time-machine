@@ -1,6 +1,8 @@
 # epoch
 Javascript date formatter with add and subtract date and time options
 
+# node.js: `require("epoch-time-machine");`
+
 epoch adds the following functions to the JavaScript Date object:
 
 `Date.toATOM()` - Convert to ATOM string format: 2005-08-15T15:52:01+00:00

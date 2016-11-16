@@ -1,0 +1,30 @@
+{
+  "name": "epoch-time-machine",
+  "version": "1.0.1",
+  "description": "Javascript date formatter with add and subtract date and time options",
+  "main": "epoch-time-machine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seaBass3/epoch-time-machine.git"
+  },
+  "keywords": [
+    "formatter",
+    "format",
+    "epoch",
+    "machine",
+    "subtract",
+    "add",
+    "time",
+    "date",
+    "javascript"
+  ],
+  "author": "Andrew Armstrong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seaBass3/epoch-time-machine/issues"
+  },
+  "homepage": "https://github.com/seaBass3/epoch-time-machine#readme"
+}

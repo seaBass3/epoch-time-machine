@@ -1,6 +1,6 @@
 {
   "name": "epoch-time-machine",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Javascript date formatter with add and subtract date and time options",
   "main": "epoch-time-machine.js",
   "scripts": {

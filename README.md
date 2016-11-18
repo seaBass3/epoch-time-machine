@@ -1,7 +1,7 @@
 # epoch
 Javascript date formatter with add and subtract date and time options
 
-# node.js: `require("epoch-time-machine");`
+node.js: `require("epoch-time-machine");`
 
 epoch adds the following functions to the JavaScript Date object:
 

@@ -1,10 +1,10 @@
-# epoch
-Javascript date formatter with add and subtract date and time options
+Javascript date and time formatter with add and subtract date and time functions
+
+epoch-time-machine adds the following functions to the JavaScript Date object:
 
 node.js: `require("epoch-time-machine");`
 
-epoch adds the following functions to the JavaScript Date object:
-
+# epoch
 `Date.toATOM()` - Convert to ATOM string format: 2005-08-15T15:52:01+00:00
 
 `Date.toISO8601()` - Convert to ISO8601 string format: 2005-08-15T15:52:01+0000
@@ -74,7 +74,7 @@ a.toCustomFormat("D., M. j, Y, \\a\\t g:ia");  //"Mon., Sep. 26, 2016, at 4:13pm
 
 ***
 
-##*Time Machine*
+#*Time Machine*
 
 Add or subtract years, months, days, hours, minutes or seconds using the following functions:
 
@@ -97,6 +97,3 @@ Example
 var a = new Date();  //Thu Sep 22 2016 17:04:50 GMT-0400 (EDT)
 a.addYears(5); //Wed Sep 22 2021 17:04:50 GMT-0400 (EDT)
 ```
-
-
-
